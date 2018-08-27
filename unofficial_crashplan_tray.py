@@ -46,7 +46,6 @@ def cp_menu():
 
 
 def cp_open(source):
-    exception = ""
     try:
         process = subprocess.check_output("ps aux | grep crashplan | grep -oP '[\/].+?(?=\/jre\/bin\/java)'",
                                           shell=True).strip()
