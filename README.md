@@ -1,4 +1,4 @@
-# THIS REPOSITORY IS DEPRACATED. PROJECT WILL BE TRANSFORMED INTO A RELIABLE GO APPLICATION.
+###NOTE: This repository is depracated. Application will be transformed into a reliable go program.
 
 # Unofficial CrashPlan Tray for Linux
 
